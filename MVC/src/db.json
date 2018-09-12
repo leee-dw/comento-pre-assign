@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "detail": {
+    "article": {
+      "no": "1",
+      "title": "TITLE 24tCG70cfT",
+      "contents": "Integer et commodo dui, quis bibendum leo. Nullam sed tristique neque. Phasellus interdum augue dolor. Integer fringilla pharetra odio, quis congue nunc efficitur in. Aliquam non odio et ante ultrices tincidunt. Donec ornare a lacus eu imperdiet. Donec ac purus nec libero auctor vestibulum posuere ut nulla. Nunc pulvinar ante vitae nulla dignissim, vel consequat lacus aliquet. Pellentesque ut purus mauris. Curabitur nec felis dignissim, convallis libero vitae, semper ipsum. Phasellus porta, magn",
+      "user_no": "2",
+      "email": "ea7a@i3Y2.com",
+      "updated_at": "2018-09-04 19:59:12",
+      "category_no": "2"
+    },
+    "replies": []
+  }
+}
